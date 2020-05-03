@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC>
+<html>
+  <head>
+    <title>{{page.title}}</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link rel="stylesheet" href="/assets/css/styles.css" />
+    <meta name="viewport" content="width=device-width" />
+  </head>
+
+  <body>
+    <div class="contentContainer">
+      {% include nav.html %}
+      <section class="defaultContent">
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
