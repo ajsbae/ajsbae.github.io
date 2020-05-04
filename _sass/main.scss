@@ -31,13 +31,10 @@ a:active {
   padding-top: 100px;
   width: 75%;
 }
-.homepageImageWrapper {
-  width: 50%;
-  max-width: 500px;
-}
 
-.homepageImageWrapper img {
-  width: 100%;
+.homeImage {
+  width: 60%;
+  min-width: 250px;
 }
 
 .aboutImage {
@@ -46,9 +43,36 @@ a:active {
   padding-right: 25px;
 }
 
-.resume{
-  line-height:1.5rem;
+.resume {
+  line-height: 1.5rem;
 }
 .resume h3 {
   margin-bottom: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  * {
+    font-size: 1em;
+  }
+
+  .sidebar {
+    width: 75px;
+    padding: 10px 0 0 10px;
+  }
+
+  .defaultContent {
+    padding-top: 20px;
+    width: 65%;
+  }
+
+  .aboutImage {
+    width: 50%;
+    max-width: 250px;
+    padding-right: 25px;
+  }
+
+  .homeImage {
+    width: 60%;
+    min-width: 200px;
+  }
 }
