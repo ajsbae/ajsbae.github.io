@@ -30,6 +30,11 @@ All along the trail there were these ice crystals underneath the first layer of 
 
 <img class="aboutImage" src="assets/images/harriman/ice_rock.jpg" />
 
+<img class="aboutImage" src="assets/images/harriman/creek.jpg" />
+
 I ate my lunch by a creek that I was walking parallel to for the second half of the day. This was my first time using my cook kit in the field and there were no hiccups. 
 
-<img class="aboutImage" src="assets/images/harriman/creek.jpg" />
+
+<img class="aboutImage" src="assets/images/harriman/dam.jpg" />
+
+<img class="aboutImage" src="assets/images/harriman/moss.jpg" />
