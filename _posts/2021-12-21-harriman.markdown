@@ -7,7 +7,7 @@ categories: blog
 
 **Route**:
 <br/>
- <img class = "blog_img" src="/assets/images/harriman-12-21-2021/route.jpg" />
+<img class = "blog_img" src="/assets/images/harriman-12-21-2021/route.jpg" />
 
 **Distance**: 8.66 mi
 
