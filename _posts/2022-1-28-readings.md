@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Readings"
-date: 2022-1-28 09:36:00 -0500
 categories: blog
 featured: true
 ---
@@ -24,3 +23,5 @@ featured: true
 - **[Why Tacit Knowledge is More Important Than Deliberate Practice
   ](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)** by Cedric Chin
 - **[Who I Want to Work For](https://keavy.com/work/who-i-want-to-work-for/)** by Keavy McMinn
+- **[Technical Debt Quadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)** by Martin Fowler
+- **[Optimized for Change](https://overreacted.io/optimized-for-change/)** by Dan Abramov
