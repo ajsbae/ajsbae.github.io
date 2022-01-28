@@ -25,3 +25,4 @@ featured: true
 - **[Who I Want to Work For](https://keavy.com/work/who-i-want-to-work-for/)** by Keavy McMinn
 - **[Technical Debt Quadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)** by Martin Fowler
 - **[Optimized for Change](https://overreacted.io/optimized-for-change/)** by Dan Abramov
+- **[On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)** by John Allspaw
