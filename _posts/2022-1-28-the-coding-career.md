@@ -74,3 +74,7 @@ categories: book
 > - Juniors must earn trust. Seniors inspire trust.
 > - Juniors seek out mentors. Seniors know how to learn from peers.
 > - Juniors work on improving themselves. Seniors work on improving their team, being a force multiplier through teaching, mentorship, and leadership.”
+
+<hr/>
+
+> In fact, the strategic saying of No can be your single most valuable action. Having made similar mistakes before, you are able to anticipate potential problems. Contributing in this way is often even better than suggesting an immediate solution. Sometimes, this goes as far as redesigning your own job if you realize you are not working on the right thing. If as a Junior Dev your goal was to fit in, as a Senior you have the power to stand out when it matters.
