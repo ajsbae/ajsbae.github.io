@@ -21,8 +21,6 @@ featured: true
 
 - **[How To Ask Questions The Smart Way
   ](http://www.catb.org/esr/faqs/smart-questions.html)** by Eric Steven Raymond
-
 - **[Why Tacit Knowledge is More Important Than Deliberate Practice
   ](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)** by Cedric Chin
-
 - **[Who I Want to Work For](https://keavy.com/work/who-i-want-to-work-for/)** by Keavy McMinn
