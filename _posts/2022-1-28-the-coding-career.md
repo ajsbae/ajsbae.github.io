@@ -5,8 +5,16 @@ date: 2022-1-28 09:36:00 -0500
 categories: book
 ---
 
-# Notes
+# Recommended Chapters
+
+- Parts II & II
+- Chapter 23: Specialist or Generalist?
+- Chapter 27: The Business of Software
+- Chapter 34: Lampshading
+
 # Exerts
+
+Page 85:
 
 > Ways to teach what you learn:
 >
@@ -14,6 +22,8 @@ categories: book
 > - Blog. Blogging is the ultimate form of permissionless learning - you can Learn in Public on your own terms, under your own domain. If you want to build a brand or domain expertise, focus your writing on a specific topic so that people will start to recognize your work and subscribe for updates.”
 
 <hr/>
+
+Page 87:
 
 > Acting For the Job You Want
 >
@@ -25,6 +35,8 @@ categories: book
 > - Mentoring others
 
 <hr/>
+
+Page 92:
 
 > We are all junior in some way, senior in others. You’ll find that elements of these ideas permeate the Principles, Tactics, and Strategies throughout this book.
 
@@ -78,23 +90,48 @@ categories: book
 
 <hr/>
 
+Page 108:
+
 > In fact, the strategic saying of No can be your single most valuable action. Having made similar mistakes before, you are able to anticipate potential problems. Contributing in this way is often even better than suggesting an immediate solution. Sometimes, this goes as far as redesigning your own job if you realize you are not working on the right thing. If as a Junior Dev your goal was to fit in, as a Senior you have the power to stand out when it matters.
 
 <hr/>
+
+Page 173:
 
 > “I propose the Platinum Rule to be that contract: Treat others as THEY want to be treated.”
 
 <hr/>
 
->“Seeking the best has several hidden costs.
-> -  Happiness: You don’t always know that you’ve got the best. You make your decisions under imperfect information — what reviews say, what friends tell you, what the marketing says — and then you buy something. Seeking the best only to find you have ended up with the second best is a recipe for disappointment. You end up comparing long feature checklists looking for the most amount of green. Most of which you don’t need. Even picking something, anything, gives you anxiety because you fear missing out.
+Page 176:
+
+> “Seeking the best has several hidden costs.
+>
+> - Happiness: You don’t always know that you’ve got the best. You make your decisions under imperfect information — what reviews say, what friends tell you, what the marketing says — and then you buy something. Seeking the best only to find you have ended up with the second best is a recipe for disappointment. You end up comparing long feature checklists looking for the most amount of green. Most of which you don’t need. Even picking something, anything, gives you anxiety because you fear missing out.
 > - Cooperation: Looking for the best transforms your world into a zero-sum finite game rather than a positive-sum infinite game. It’s cancerous to your worldview.
 > - Efficiency: It is also ridiculously inefficient. The corollary of the Pareto principle is that the last 20% of something is the most expensive - and that’s what you have to sweat if you must seek “the best” all the time. It’s fine to seek the best - just know that you’re going to incur a disproportionately high cost.
 > - Agency: People game “best-seekers” all the time, by defining for you what “best” is. Who wants to be Mayor on Foursquare? Who can compete to[…]”
->“Good Enough” is, well, good enough. Learn to define that for yourself, and to be happy when you get it, and you will be more reliably happy, cooperative, productive, and independent than you ever were.”
+>   “Good Enough” is, well, good enough. Learn to define that for yourself, and to be happy when you get it, and you will be more reliably happy, cooperative, productive, and independent than you ever were.”
 
 <hr/>
 
->“It is always easier to be more precise than it is to be more accurate. One produces more confidence. The other produces more results. Choose wisely.”
+Page 180:
 
+> “It is always easier to be more precise than it is to be more accurate. One produces more confidence. The other produces more results. Choose wisely.”
 
+<hr/>
+
+Page 231:
+
+> “As an industry, we will not stop trying to have our cake and eat it too. With “Full Stack” in disgrace, the current iteration of this is the “T Shaped” engineer. This was first defined by Valve in their Employee Handbook:
+
+<img class="blog_img" src="/assets/images/the-coding-career-1-28-2022/tshaped.png" />
+
+> This combination of breadth and depth is, of course, appealing, but convenient in its avoidance of acknowledging any real tradeoffs.”
+
+<hr/>
+
+Page 271:
+
+> “Platforms exist on a higher level than business models - for Windows it was licensing, while for Google it is ads. Yet the two-sided nature of a Platform makes it seem like a Marketplace, and Bill Gates’ definition seems comparable to GMV.
+
+> But Platforms don’t play the transaction volume game - their M.O. is to look at the most critical use cases and to build them out as subsequent products. Windows built out Office (Word, Excel, Outlook, etc), and then Windows Server. Google built GSuite (Docs, Sheets, Gmail, etc), and acquired YouTube.”

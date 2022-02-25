@@ -31,5 +31,7 @@ featured: true
 - **[Big L Notation
 : Modeling Rates of Learning](https://www.swyx.io/big-l-notation)** by swyx
 - **[Choose Boring Technology](http://boringtechnology.club/#23)** by Scott Ananian
+- **[Software Is Eating the World](https://future.a16z.com/software-is-eating-the-world/)** by Marc Andreessen
+
 
 
