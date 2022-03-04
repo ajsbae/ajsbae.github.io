@@ -29,9 +29,7 @@ featured: true
 - **[On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)** by John Allspaw
 - **[Reasoning From First Principles: The Dumbest Thing Smart People Do](https://byrnehobart.medium.com/reasoning-from-first-principles-the-dumbest-thing-smart-people-do-46ff1cbba867)** by Byrne Hobart
 - **[Big L Notation
-: Modeling Rates of Learning](https://www.swyx.io/big-l-notation)** by swyx
+  : Modeling Rates of Learning](https://www.swyx.io/big-l-notation)** by swyx
 - **[Choose Boring Technology](http://boringtechnology.club/#23)** by Scott Ananian
 - **[Software Is Eating the World](https://future.a16z.com/software-is-eating-the-world/)** by Marc Andreessen
-
-
-
+- **[how I think when I think about programming](https://www.alicemaz.com/writing/program.html)** by Alice Maz
