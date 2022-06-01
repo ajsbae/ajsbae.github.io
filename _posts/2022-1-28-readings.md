@@ -33,3 +33,7 @@ featured: true
 - **[Choose Boring Technology](http://boringtechnology.club/#23)** by Scott Ananian
 - **[Software Is Eating the World](https://future.a16z.com/software-is-eating-the-world/)** by Marc Andreessen
 - **[how I think when I think about programming](https://www.alicemaz.com/writing/program.html)** by Alice Maz
+- **[Why don't schools teach debugging?](https://danluu.com/teach-debugging/)** by Dan Luu
+- **[How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)** by Eric Steven Raymond
+- **[On the cruelty of really teaching computing science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)** by Edsger W. Dijkstra
+- **[In the Beginning was the Command Line](https://web.stanford.edu/class/cs81n/command.txt)** by Neal Stephenson
