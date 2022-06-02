@@ -124,7 +124,7 @@ Page 231:
 
 > “As an industry, we will not stop trying to have our cake and eat it too. With “Full Stack” in disgrace, the current iteration of this is the “T Shaped” engineer. This was first defined by Valve in their Employee Handbook:
 
-<img class="blog_img" src="/assets/images/the-coding-career-1-28-2022/tshaped.png" />
+<img class="blog_img" src="https://baealex.s3.amazonaws.com/images/the-coding-career-1-28-2022/tshaped.png" />
 
 > This combination of breadth and depth is, of course, appealing, but convenient in its avoidance of acknowledging any real tradeoffs.”
 
