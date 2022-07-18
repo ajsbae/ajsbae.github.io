@@ -83,7 +83,21 @@ a:active {
   width: 300px;
 }
 
+.blog_img_large {
+  width: 600px;
+}
+
 .inline_blog_img {
+  vertical-align: text-bottom;
   width: 300px;
+  display: inline-block;
+}
+
+.inline_blog_img_l {
+  vertical-align: text-bottom;
+  width: 400px;
+  display: inline-block;
+}
+.inline {
   display: inline-block;
 }
